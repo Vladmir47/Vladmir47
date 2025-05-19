@@ -1,4 +1,4 @@
-<h2 align="left">Vladmir Boniface, An apiring computer scientist.</h2>
+<h2 align="left">Vladmir Boniface, An aspiring computer scientist.</h2>
 <h3>Interested in software engineering, Embedded systems, Robotics and Drone technology</h3>
 
 ###
